@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.5" />
+    <PackageReference Include="Dapper.Contrib" Version="1.50.5" />
+    <PackageReference Include="Npgsql" Version="4.0.2" />
+    <PackageReference Include="Slapper.AutoMapper" Version="2.0.0.9-beta" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ServeMe.Core.Domain\ServeMe.Core.Domain.csproj" />
+    <ProjectReference Include="..\ServeMe.Infrastructure.CrossCutting\ServeMe.Infrastructure.CrossCutting.csproj" />
+    <ProjectReference Include="..\ServeMe.Infrastructure.DatabaseHelper\ServeMe.Infrastructure.DatabaseHelper.csproj" />
+    <ProjectReference Include="..\ServeMe.Main.Domain\ServeMe.Main.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

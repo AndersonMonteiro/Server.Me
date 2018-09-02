@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ServeMe.Infrastructure.CrossCutting/1.0.0": {
+        "dependencies": {
+          "ServeMe.Core.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ServeMe.Infrastructure.CrossCutting.dll": {}
+        }
+      },
+      "ServeMe.Core.Domain/1.0.0": {
+        "runtime": {
+          "ServeMe.Core.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServeMe.Infrastructure.CrossCutting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServeMe.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

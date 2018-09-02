@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ServeMe.Core.Domain\ServeMe.Core.Domain.csproj" />
+    <ProjectReference Include="..\ServeMe.Infrastructure.DatabaseHelper\ServeMe.Infrastructure.DatabaseHelper.csproj" />
+    <ProjectReference Include="..\ServeMe.Main.Domain\ServeMe.Main.Domain.csproj" />
+    <ProjectReference Include="..\ServeMe.Main.Repositories\ServeMe.Main.Repositories.csproj" />
+    <ProjectReference Include="..\ServeMe.Main.Services\ServeMe.Main.Services.csproj" />
+    <ProjectReference Include="..\ServeMe.Main.Tests\ServeMe.Main.Tests.csproj" />
+    <ProjectReference Include="..\ServeMe.Security.Domain\ServeMe.Security.Domain.csproj" />
+    <ProjectReference Include="..\ServeMe.Security.Tests\ServeMe.Security.Tests.csproj" />
+    <ProjectReference Include="..\ServeMe.Secutiry.Repositories\ServeMe.Secutiry.Repositories.csproj" />
+    <ProjectReference Include="..\ServeMe.Secutiry.Services\ServeMe.Secutiry.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions">
+      <HintPath>..\..\..\..\..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.dependencyinjection.abstractions\2.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
