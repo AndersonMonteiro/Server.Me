@@ -4,9 +4,7 @@ using System.Text;
 
 namespace ServeMe.Main.Domain.Entities
 {
-    public class TestCore
+    class TipoHorario
     {
-        public int TestId { get; set; }
-        public string TesteCore { get; set; }
     }
 }

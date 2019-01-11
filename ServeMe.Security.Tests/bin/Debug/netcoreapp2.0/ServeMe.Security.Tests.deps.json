@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "632739525cc540706a7adfe62804e46ded625805"
+    "signature": "06e02ac482ea46770cf054bee4a33be94f8b1993"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,7 +10,7 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.7.0",
           "xunit": "2.3.1",
-          "xunit.runner.visualstudio": "2.3.1"
+          "xunit.runner.visualstudio": "2.4.0"
         },
         "runtime": {
           "ServeMe.Security.Tests.dll": {}
@@ -1027,7 +1027,7 @@
           "lib/netstandard1.1/xunit.execution.dotnet.dll": {}
         }
       },
-      "xunit.runner.visualstudio/2.3.1": {
+      "xunit.runner.visualstudio/2.4.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.7.0"
         }
@@ -1572,12 +1572,12 @@
       "path": "xunit.extensibility.execution/2.3.1",
       "hashPath": "xunit.extensibility.execution.2.3.1.nupkg.sha512"
     },
-    "xunit.runner.visualstudio/2.3.1": {
+    "xunit.runner.visualstudio/2.4.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-B+RtW4dyBquEyjSAFyV5RMifaOZOirDwlzcIq2DNVGo1gzJS8PAPu5S+2y1n6ZgEMWbpqJf9TkZ55+X6FLdy3A==",
-      "path": "xunit.runner.visualstudio/2.3.1",
-      "hashPath": "xunit.runner.visualstudio.2.3.1.nupkg.sha512"
+      "sha512": "sha512-spS399J48cRVHJL4BRPT3FXBlINlJ6hh9f/8VfgkPRVjsqTU+CuDxvqsFzdj6++k+HxfFJP0ZPnbnLVNeH8zhQ==",
+      "path": "xunit.runner.visualstudio/2.4.0",
+      "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
     }
   }
 }

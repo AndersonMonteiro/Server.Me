@@ -1,5 +1,4 @@
 ﻿using Dapper;
-using Dapper.Contrib.Extensions;
 using ServeMe.Main.Domain.Entities;
 using ServeMe.Main.Domain.Repositories;
 using ServeMe.Infrastructure.DatabaseHelper;
