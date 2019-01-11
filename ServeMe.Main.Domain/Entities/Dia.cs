@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ServeMe.Main.Domain.Entities
 {
-    class Dia
+    public class Dia
     {
     }
 }

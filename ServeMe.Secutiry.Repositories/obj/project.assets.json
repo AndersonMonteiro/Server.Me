@@ -664,23 +664,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ander\\.nuget\\packages\\": {},
+    "C:\\Users\\andersonmonteiro\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ander\\Documents\\Coding\\ServerMe\\ServeMe.Secutiry.Repositories\\ServeMe.Secutiry.Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Secutiry.Repositories\\ServeMe.Secutiry.Repositories.csproj",
       "projectName": "ServeMe.Secutiry.Repositories",
-      "projectPath": "C:\\Users\\ander\\Documents\\Coding\\ServerMe\\ServeMe.Secutiry.Repositories\\ServeMe.Secutiry.Repositories.csproj",
-      "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ander\\Documents\\Coding\\ServerMe\\ServeMe.Secutiry.Repositories\\obj\\",
+      "projectPath": "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Secutiry.Repositories\\ServeMe.Secutiry.Repositories.csproj",
+      "packagesPath": "C:\\Users\\andersonmonteiro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Secutiry.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\andersonmonteiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -707,7 +710,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0",
             "autoReferenced": true
           }
         },

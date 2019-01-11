@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ServeMe.Main.Domain.Entities
 {
-    class Perfil
+    public class Perfil
     {
     }
 }
