@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ServeMe.Main.Domain.Repositories
 {
-    public interface ITestCoreRepo
+    public interface ICategoriaRepository
     {
-        Task<TestCore> TestCore();
+        Task<IEnumerable<Categoria>> SearchAllAsync();
     }
 }

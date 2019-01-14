@@ -532,11 +532,10 @@
   },
   "libraries": {
     "Dapper/1.50.5": {
-      "sha512": "AzAdZ9fEzUtav3Sbc5CMgz5O2oYkc5g1r+g1h/Vn+wqcInII+xtNEfyZryeW90Wq72bxjEBJhe18j+2SrGrc5A==",
+      "sha512": "1vPpX7WQmQCIb7rwlGOUoVs/yWZhVKvdhuG7WrJV+V+qsP8btnrrCqVWHENAlJxBAnUw5rhWfmuba9/Egei9MA==",
       "type": "package",
       "path": "dapper/1.50.5",
       "files": [
-        ".signature.p7s",
         "dapper.1.50.5.nupkg.sha512",
         "dapper.nuspec",
         "lib/net451/Dapper.dll",
@@ -1056,11 +1055,10 @@
       ]
     },
     "Npgsql/4.0.2": {
-      "sha512": "pSm4RVNVrjZZGQMkQVVkY5dXwxJPF8Td5eI/8AEUHiwH9N9thZRw+u+EjHzWZhi2QkajX2Zj5uD+YZZxDTDafw==",
+      "sha512": "sPpinYdH+Jdq9iLFllElQ+J/h3jAnefyUxgBlwc4yz9eBezSYhj64T/u9OlX4cJRXglT3LBkwsFFY78HH4wokw==",
       "type": "package",
       "path": "npgsql/4.0.2",
       "files": [
-        ".signature.p7s",
         "lib/net45/Npgsql.dll",
         "lib/net45/Npgsql.pdb",
         "lib/net45/Npgsql.xml",
@@ -1495,11 +1493,10 @@
       ]
     },
     "System.Reflection.TypeExtensions/4.4.0": {
-      "sha512": "JRxOAH6by+wn1gNnZc9jf2HbO/szhMJuLY2w44nEW77354WntXlFzWSVkx6280Uvcl3URZ/At+444vjX0/X1Aw==",
+      "sha512": "dkmh/ySlwnXJp/1qYP9uyKkCK1CXR/REFzl7abHcArxBcV91mY2CgrrzSRA5Z/X4MevJWwXsklGRdR3A7K9zbg==",
       "type": "package",
       "path": "system.reflection.typeextensions/4.4.0",
       "files": [
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/MonoAndroid10/_._",
@@ -1648,7 +1645,7 @@
       ]
     },
     "System.Runtime.CompilerServices.Unsafe/4.5.0": {
-      "sha512": "+XuFKlQaEBZXzJLGYXK2RWSif4doDGol46fJHHt1wwWQoHQHr0iwlmF76U2LlssIp3ZPJgCVVueY620y6JEhqw==",
+      "sha512": "6zBxkHYemB0kQiHP3vGXGRXejZVoNVuMn2paUuqKKi5Wyjkxfkp+D0rd0c3VrGwotidRINt6KpOi2smL4VkJKw==",
       "type": "package",
       "path": "system.runtime.compilerservices.unsafe/4.5.0",
       "files": [
@@ -1928,7 +1925,7 @@
       ]
     },
     "System.Threading.Tasks.Extensions/4.5.0": {
-      "sha512": "xPuXi6WJrAoJIf/7KPtmOIiMkUHQkldNeR/IiQRwkRYezgutxY1K2gWkwenV/ON07bUoFr4Lgh+/0SmEugM+Tg==",
+      "sha512": "cWndlAQKAhHfsS6rZbYEE07HXJI9dPdyMAPOXXnVUO+hm+3G6qneMIqLDesoNBiVAPsKErsUVa2N/FRSKi+SeA==",
       "type": "package",
       "path": "system.threading.tasks.extensions/4.5.0",
       "files": [
@@ -1956,7 +1953,7 @@
       ]
     },
     "System.ValueTuple/4.5.0": {
-      "sha512": "fa3P1cPe2SlrjCjJ/yc3mcXkDj4GQORmileNFYBtBZh2qddzwRubagAkj8yz/yF9oLvJVqaZYar9l2SCqNKDJg==",
+      "sha512": "xZtSZNEHGa+tGsKuP4sh257vxJ/yemShz4EusmomkynMzuEDDjVaErBNewpzEF6swUgbcrSQAX3ELsEp1zCOwA==",
       "type": "package",
       "path": "system.valuetuple/4.5.0",
       "files": [
@@ -2013,26 +2010,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andersonmonteiro\\.nuget\\packages\\": {},
+    "C:\\Users\\ander\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Infrastructure.DatabaseHelper\\ServeMe.Infrastructure.DatabaseHelper.csproj",
+      "projectUniqueName": "C:\\Users\\ander\\Documents\\Coding\\Server.Me\\ServeMe.Infrastructure.DatabaseHelper\\ServeMe.Infrastructure.DatabaseHelper.csproj",
       "projectName": "ServeMe.Infrastructure.DatabaseHelper",
-      "projectPath": "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Infrastructure.DatabaseHelper\\ServeMe.Infrastructure.DatabaseHelper.csproj",
-      "packagesPath": "C:\\Users\\andersonmonteiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Infrastructure.DatabaseHelper\\obj\\",
+      "projectPath": "C:\\Users\\ander\\Documents\\Coding\\Server.Me\\ServeMe.Infrastructure.DatabaseHelper\\ServeMe.Infrastructure.DatabaseHelper.csproj",
+      "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ander\\Documents\\Coding\\Server.Me\\ServeMe.Infrastructure.DatabaseHelper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\andersonmonteiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2045,8 +2039,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Core.Domain\\ServeMe.Core.Domain.csproj": {
-              "projectPath": "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Core.Domain\\ServeMe.Core.Domain.csproj"
+            "C:\\Users\\ander\\Documents\\Coding\\Server.Me\\ServeMe.Core.Domain\\ServeMe.Core.Domain.csproj": {
+              "projectPath": "C:\\Users\\ander\\Documents\\Coding\\Server.Me\\ServeMe.Core.Domain\\ServeMe.Core.Domain.csproj"
             }
           }
         }
@@ -2062,17 +2056,17 @@
         "dependencies": {
           "Dapper": {
             "target": "Package",
-            "version": "1.50.5"
-          },
-          "Npgsql": {
-            "target": "Package",
-            "version": "4.0.2"
+            "version": "[1.50.5, )"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
+          },
+          "Npgsql": {
+            "target": "Package",
+            "version": "[4.0.2, )"
           }
         },
         "imports": [

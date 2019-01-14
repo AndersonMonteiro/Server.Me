@@ -719,26 +719,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andersonmonteiro\\.nuget\\packages\\": {},
+    "C:\\Users\\ander\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Main.Services\\ServeMe.Main.Services.csproj",
+      "projectUniqueName": "C:\\Users\\ander\\Documents\\Coding\\Server.Me\\ServeMe.Main.Services\\ServeMe.Main.Services.csproj",
       "projectName": "ServeMe.Main.Services",
-      "projectPath": "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Main.Services\\ServeMe.Main.Services.csproj",
-      "packagesPath": "C:\\Users\\andersonmonteiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Main.Services\\obj\\",
+      "projectPath": "C:\\Users\\ander\\Documents\\Coding\\Server.Me\\ServeMe.Main.Services\\ServeMe.Main.Services.csproj",
+      "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ander\\Documents\\Coding\\Server.Me\\ServeMe.Main.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\andersonmonteiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -751,14 +748,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Infrastructure.CrossCutting\\ServeMe.Infrastructure.CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Infrastructure.CrossCutting\\ServeMe.Infrastructure.CrossCutting.csproj"
+            "C:\\Users\\ander\\Documents\\Coding\\Server.Me\\ServeMe.Core.Domain\\ServeMe.Core.Domain.csproj": {
+              "projectPath": "C:\\Users\\ander\\Documents\\Coding\\Server.Me\\ServeMe.Core.Domain\\ServeMe.Core.Domain.csproj"
             },
-            "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Core.Domain\\ServeMe.Core.Domain.csproj": {
-              "projectPath": "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Core.Domain\\ServeMe.Core.Domain.csproj"
+            "C:\\Users\\ander\\Documents\\Coding\\Server.Me\\ServeMe.Infrastructure.CrossCutting\\ServeMe.Infrastructure.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\ander\\Documents\\Coding\\Server.Me\\ServeMe.Infrastructure.CrossCutting\\ServeMe.Infrastructure.CrossCutting.csproj"
             },
-            "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Main.Domain\\ServeMe.Main.Domain.csproj": {
-              "projectPath": "C:\\Users\\andersonmonteiro\\source\\repos\\Server.Me\\ServeMe.Main.Domain\\ServeMe.Main.Domain.csproj"
+            "C:\\Users\\ander\\Documents\\Coding\\Server.Me\\ServeMe.Main.Domain\\ServeMe.Main.Domain.csproj": {
+              "projectPath": "C:\\Users\\ander\\Documents\\Coding\\Server.Me\\ServeMe.Main.Domain\\ServeMe.Main.Domain.csproj"
             }
           }
         }
@@ -775,7 +772,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },
